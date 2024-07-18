@@ -26,6 +26,9 @@ Try on Telegram: [Insta Saver Bot](https://t.me/instaa_saver_bot)
 - Incorporating support for age-restricted content.
 - Implementing user sessions and Instagram account login functionality.
 
+- ## Deploy(at your own risk) :
+<p><a href="https://heroku.com/deploy?template=https://github.com/Sanchit0102/insta-saver-bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
 ### Changelog
 
 [View the Changelog](CHANGELOG.md)
