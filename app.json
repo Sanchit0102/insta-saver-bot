@@ -1,0 +1,19 @@
+{
+	"name": "Telegram Instagram Downloader Bot",
+	"description": "A Telegram Video DL Bot",
+	"keywords": [
+		"telegram",
+		"video",
+		"DL",
+		"bot"
+	],
+	"repository": "https://github.com/Sanchit0102/insta-saver-bot",
+	"website": "https://telegram.dog/THE_DS_OFFICIAL",
+	"stack": "container",
+	"formation": {
+		"worker": {
+			"quantity": 1,
+			"size": "eco"
+		}
+	}
+}
